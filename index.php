@@ -27,7 +27,9 @@ try {
         <h3 style="margin:0;font-size:1.7em;font-weight:normal;text-transform:none;text-align:left;color:#2f2f2f;">
         Autoload error</h3>
     </div>
-    <p>{$e->getMessage()}</p>
+    <p>{$e->getMessage()}
+	hello kamal
+	</p>
 </div>
 HTML;
     exit(1);
